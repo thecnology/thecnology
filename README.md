@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![thecnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecnology)](https://github.com/anuraghazra/github-readme-stats)
+[![thecnology's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecnology&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
